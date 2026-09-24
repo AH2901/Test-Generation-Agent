@@ -1,0 +1,6 @@
+bin/
+obj/
+generated-tests/
+.vs/
+*.user
+*.suo
